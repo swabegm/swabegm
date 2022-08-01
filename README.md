@@ -1,0 +1,6 @@
+- 👋 Welcome! I’m @swabegm (aka Gretchen Swabe). 
+- I'm a data analyst/researcher at the University of Pittsburgh with a background in epidemiology. 
+- I use insurance claims data to relate social factors, like income and copays, to heart disease outcomes.
+- Primary software: R & SAS
+- I'm looking to grow my skills and do more advanced statistical analyses, like longitudinal and mixed models. 
+- Email: swabegm@gmail.com
